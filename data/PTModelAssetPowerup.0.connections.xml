@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1743</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1745</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2637</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2639</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2776</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2778</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2787</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2789</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2798</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2800</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2809</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2811</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
